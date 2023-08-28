@@ -17,6 +17,7 @@
 - **발표 문서 :** [💁🏻 사용자 요구사항 명세서 ](https://docs.google.com/spreadsheets/d/168JUeKaabCkAvCFBatJvYupZNaH3dFTM/edit?usp=sharing&ouid=109413448814502923968&rtpof=true&sd=true)
 - **배포 링크 :** [💁🏻 배포 링크 ](http://43.200.68.32:8080/swagger-ui.html)
 - **s3 배포 링크 :** [💁🏻 배포 링크 ](http://pre26.s3-website.ap-northeast-2.amazonaws.com/)
+- **블로깅 링크 :** [💁🏻 블로깅 링크 ](https://bbeeyaks-moment.tistory.com/category/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0%20SEB%20FE%2041%EA%B8%B0/Pre-Project%28stackoverflow%20clone%29/)
 
 
 
